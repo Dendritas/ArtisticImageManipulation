@@ -1,8 +1,8 @@
 # ImageManipulation
 Artistic Image Manipulation in Processing Programming Environment
 
-Example: </br>
-<img src="http://emilioparra.com/wp-content/uploads/2019/07/Yo1_b2-copy.jpg" alt="ArtisticImageManipulation" height="50%" width="50%"> 
+Example: </br></br>
+<img src="http://emilioparra.com/wp-content/uploads/2019/07/Yo1_b2-copy.jpg" alt="ArtisticImageManipulation" width="100%"> 
 
 1. Open the ImgSorting.pde file, build and choose a image file with jpg extension to manipulate.
 

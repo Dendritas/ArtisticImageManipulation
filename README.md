@@ -1,4 +1,4 @@
-# ImageManipulation
+# ArtisticImageManipulation
 Artistic Image Manipulation in Processing Programming Environment
 
 Example: </br></br>
